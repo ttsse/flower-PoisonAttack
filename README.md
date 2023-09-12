@@ -95,12 +95,8 @@ Having issues? Just report in [the issue section](https://github.com/usamazf/flo
 Fork this repository, make your changes and then issue a pull request. If you have new ideas that you do not want to implement, file a feature request and we will get to it as soon as possible.
 
 
-## Support
-
-Consider becoming a patron (**highly appreciated!**):
-
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/usamazf)
-
-... Or if you prefer a one-time tip:
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/usamazfr)
+## Testing Project
+To run all implemented tests, run the following commands:
+```bash
+pytest tests/
+```
